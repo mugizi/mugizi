@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mugizi
 I LIVE  IN UGANDA AND AM SELF EMPLOYED I SEPCIALISED IN DEVELOPING EMBEDED SYSTEMS
-- 👀 I’m interested in ASP.NET, C#,
+- 👀 I’m interested in ASP.NET, C#, Python, JAVA SCRIPT
 - 🌱 I’m currently learning PYTHON CODES
 - 💞️ I’m looking to collaborate on INTERFACES IN HTML, CSS AND BOOTSTRAP AND JAVA SCRIPTS
 - 📫 How to reach me YOU CAN CONTACT ME ON +256782863209
